@@ -1,21 +1,23 @@
-obj/local/arm64-v8a/objs/tiny/com_zxy_libjpegturbo_JpegTurboCompressor.o: \
- jni/com_zxy_libjpegturbo_JpegTurboCompressor.c jni/include/jpeglib.h \
- jni/include/jconfig.h jni/include/jmorecfg.h jni/include/cdjpeg.h \
- jni/include/jinclude.h jni/include/jpeglib.h jni/include/jerror.h \
- jni/include/cderror.h
+H:/advance/TinyPro/libjpeg-turbo-sdk/src/main/obj/local/arm64-v8a/objs/tiny/com_zxy_libjpegturbo_JpegTurboCompressor.o: \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\com_zxy_libjpegturbo_JpegTurboCompressor.c \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jpeglib.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jconfig.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jmorecfg.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\cdjpeg.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jinclude.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jerror.h \
+  H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\cderror.h
 
-jni/include/jpeglib.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jpeglib.h:
 
-jni/include/jconfig.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jconfig.h:
 
-jni/include/jmorecfg.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jmorecfg.h:
 
-jni/include/cdjpeg.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\cdjpeg.h:
 
-jni/include/jinclude.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jinclude.h:
 
-jni/include/jpeglib.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\jerror.h:
 
-jni/include/jerror.h:
-
-jni/include/cderror.h:
+H:\advance\TinyPro\libjpeg-turbo-sdk\src\main\jni\include\cderror.h:
