@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
-SOURCE_PATH := libjpeg-turbo-1.5.2
+SOURCE_PATH := libjpeg-turbo-2.0.5
 
 
 # libjpeg_la_SOURCES from Makefile.am

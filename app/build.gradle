@@ -11,9 +11,9 @@ android {
         versionCode 1
         versionName "1.0"
 
-        ndk {
-            abiFilters 'armeabi-v7a','x86'
-        }
+//        ndk {
+//            abiFilters 'armeabi-v7a','x86'
+//        }
     }
     buildTypes {
         release {
@@ -28,7 +28,7 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support:support-v4:27.1.1'
-//    implementation project(':tiny')
-    implementation 'com.zxy.android:tiny:1.0.0'
+    implementation project(':tiny')
+//    implementation 'com.zxy.android:tiny:1.0.0'
     implementation 'com.zxy.android:recovery:1.0.0'
 }
